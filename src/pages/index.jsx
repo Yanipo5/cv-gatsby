@@ -552,13 +552,9 @@ const Index = () => (
               clean, readable, effective code.
             </AboutSub>
           </AboutHero>
-          <AboutDesc>2017-2018: Frontend Developer, Jeeng.</AboutDesc>
-          <AboutDesc>2017-2017: Fullstack Developer, Midburn Tech.</AboutDesc>
           <AboutDesc>
-            2016-2017: Team Leader Training, IBM Professional Services.
-          </AboutDesc>
-          <AboutDesc>
-            2014-2016: System Analyst, IBM Professional Services.
+            Why wait for an interview, when you can interview my Bot, right
+            now!?
           </AboutDesc>
           <iframe
             width="100%"
