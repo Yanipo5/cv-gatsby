@@ -39,7 +39,8 @@
     "start": "npm run dev",
     "dev": "gatsby develop -o",
     "build": "gatsby build",
-    "deploy": "npm run build && firebase deploy",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "//deploy": "npm run build && firebase deploy",
     "lint": "eslint . --ext .js,.jsx --ignore-path .gitignore",
     "lint:fix": "eslint . --ext .js,.jsx --fix --ignore-path .gitignore",
     "predev": "postcss tailwind.css -o tailwind.custom.css",
@@ -54,6 +55,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-react": "^7.11.1",
+    "gh-pages": "^2.0.1",
     "prettier": "^1.14.3"
   }
 }
