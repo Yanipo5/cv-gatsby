@@ -305,7 +305,7 @@ const Index = () => (
           <Subtitle>
             Get The{" "}
             <a
-              href="https://www.dropbox.com/s/4m1pp3y1jlxlzgs/Yaniv%20Peretz-CV.pdf.pdf"
+              href="https://www.dropbox.com/s/pt3lqihpqx4of23/Yaniv%20Peretz-CV.pdf?dl=0"
               target="_blank"
               download
             >
@@ -547,7 +547,7 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="John Doe" />
             <AboutSub>
-              Love tech, passionate about knowledge. experienced in modarn FED
+              Love tech, passionate about knowledge. experienced in modern FED
               firmeworks with backend knowledge (Node.js & Java). Advocate of
               clean, readable, effective code.
             </AboutSub>
