@@ -301,7 +301,7 @@ const Index = () => (
           <BigTitle>
             Hello, <br /> I'm Yaniv Peretz.
           </BigTitle>
-          <Subtitle>Bulid experiences with modern FED Tools. </Subtitle>
+          <Subtitle>Building experiences with modern web Tools. </Subtitle>
           <Subtitle>
             Get The{" "}
             <a
@@ -545,16 +545,14 @@ const Index = () => (
         <Inner>
           <Title>About</Title>
           <AboutHero>
-            <Avatar src={avatar} alt="John Doe" />
+            <Avatar src={avatar} alt="Yaniv Peretz" />
             <AboutSub>
-              Love tech, passionate about knowledge. experienced in modern FED
-              firmeworks with backend knowledge (Node.js & Java). Advocate of
-              clean, readable, effective code.
+              Passionate about technology. Loves programming and challenges.
+              Advocate of clean, readable and effective code.
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            Why wait for an interview, when you can interview my Bot, right
-            now!?
+            Why wait for an interview, when you can interview my bot right now!?
           </AboutDesc>
           <iframe
             width="100%"
@@ -586,7 +584,7 @@ const Index = () => (
       </Divider>
       <Content speed={0.4} offset={3}>
         <Inner>
-          <Title>Get in touch</Title>
+          <Title>Get in Touch</Title>
           <ContactText>
             Say <a href="mailto:yip528@gmail.com">Hi</a> or find me on other
             platforms:{" "}
